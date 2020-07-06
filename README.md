@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Python developer in the day, Go developer (gopher) under the hood. Big fan of full-text search and graph databases.
+
+Contributed in different python/go open source projects:
+- docker registry
+- pyhelm, aiohttp-swagger, mezzanine
+- chalice, requests, aiohttp tutorial
+- sendgrid-python and sendgrid-django
+- OpenAPI v3 specification, fix Go docs
+
+Speaker at PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015, 2016.
+
+Blogger at https://asoldatenko.com/ 
