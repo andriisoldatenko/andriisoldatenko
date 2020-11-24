@@ -27,3 +27,7 @@ Contributed in different python/go open source projects:
 Speaker at PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015, 2016.
 
 Blogger at https://asoldatenko.com/ 
+
+Github stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=andriisoldatenko&show_icons=true" alt="logo" height="130" />
