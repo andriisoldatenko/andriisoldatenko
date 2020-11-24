@@ -1,30 +1,16 @@
 ### Hi there 👋
 
-<!--
-**andriisoldatenko/andriisoldatenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Python developer in the day, Go developer (gopher) under the hood. Big fan of full-text search and graph databases.
 
-Contributed in different python/go open source projects:
+Contributed to different open source projects:
+- pache airflow
 - docker registry
 - pyhelm, aiohttp-swagger, mezzanine
 - chalice, requests, aiohttp tutorial
 - sendgrid-python and sendgrid-django
 - OpenAPI v3 specification, fix Go docs
 
-Speaker at PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015, 2016.
+Speaker at FOSDEM 2020 (go track), GoDays 2020, GopherCon Russia 2020, GoWayFest 4.0, PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Israel, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015-2016, OdessaPy (Ukraine) and lot’s of local meetups.
 
 Blogger at https://asoldatenko.com/ 
 
