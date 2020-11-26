@@ -3,7 +3,7 @@
 Python developer in the day, Go developer (gopher) under the hood. Big fan of full-text search and graph databases.
 
 Contributed to different open source projects:
-- pache airflow
+- apache airflow
 - docker registry
 - pyhelm, aiohttp-swagger, mezzanine
 - chalice, requests, aiohttp tutorial
