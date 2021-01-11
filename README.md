@@ -12,7 +12,7 @@ Contributed to different open source projects:
 
 Speaker at FOSDEM 2020 (go track), GoDays 2020, GopherCon Russia 2020, GoWayFest 4.0, PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Israel, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015-2016, OdessaPy (Ukraine) and lot’s of local meetups.
 
-Blogger at https://asoldatenko.com/ 
+Blogger at https://golangfortwo.com/ 
 
 Github stats:
 
