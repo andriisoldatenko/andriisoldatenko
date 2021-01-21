@@ -17,3 +17,10 @@ Blogger at https://golangfortwo.com/
 Github stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=andriisoldatenko&show_icons=true" alt="logo" height="130" />
+
+Social networks:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andriisoldatenko)](https://github.com/andriisoldatenko)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriisoldatenko/)](https://www.linkedin.com/in/andriisoldatenko/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/a_soldatenko)](https://twitter.com/a_soldatenko)
+
