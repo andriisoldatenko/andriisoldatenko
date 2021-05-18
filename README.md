@@ -16,7 +16,13 @@ Blogger at https://golangfortwo.com/
 
 Github stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=andriisoldatenko&show_icons=true" alt="logo" height="130" />
+
+<div align="center"> 
+  <h3>My stats</h3>
+</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andriisoldatenko&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriisoldatenko&layout=compact)
 
 Social networks:
 
