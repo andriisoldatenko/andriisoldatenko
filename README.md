@@ -3,14 +3,18 @@
 Python developer in the day, Go developer (gopher) under the hood. Big fan of full-text search and graph databases.
 
 Contributed to different open source projects:
-- apache airflow
+- [Apache Airflow](https://en.wikipedia.org/wiki/Apache_Airflow) (airflow helm chart and other related projects).
 - docker registry
 - pyhelm, aiohttp-swagger, mezzanine
 - chalice, requests, aiohttp tutorial
 - sendgrid-python and sendgrid-django
 - OpenAPI v3 specification, fix Go docs
 
-Speaker at PyCon Italia 2022, FOSDEM 2020 (go track), GoDays 2020, PyCaribbean, PyCon Italia 2017, EuroPython 2016, PyCon Israel, PyCon Ukraine 2014, OdessaPy (Ukraine) and lot’s of local meetups.
+Speaker at FOSDEM 2020 and 2023 (Go and Rust dev rooms), GoDays 2020, PyCaribbean, PyCon Israel, PyCon Italia 2017 and 2022, EuroPython 2016 and 2022, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015, 2016, 2018, OdessaPy and lot’s of local meetups.
+
+Videos of my recent talks:
+- [Debugging concurrency programs in Go](https://www.youtube.com/watch?v=D_S9qQ7jzkQ)
+
 
 Blogger at https://asoldatenko.org/ 
 
