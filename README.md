@@ -14,7 +14,7 @@ Speaker at FOSDEM 2020 and 2023 (Go and Rust dev rooms), GoDays 2020, PyCaribbea
 
 Videos of my recent talks:
 - [Debugging concurrency programs in Go](https://www.youtube.com/watch?v=D_S9qQ7jzkQ)
-- [Advanced Debugging Techniques of Go Code]([https://github.com/andriisoldatenko/](https://www.youtube.com/watch?v=2kjmLQY8RJk)
+- [Advanced Debugging Techniques of Go Code](https://www.youtube.com/watch?v=2kjmLQY8RJk)
 
 Blogger at https://asoldatenko.org/ 
 
