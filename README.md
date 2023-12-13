@@ -10,7 +10,7 @@ Contributed to different open source projects:
 - sendgrid-python and sendgrid-django
 - OpenAPI v3 specification, fix Go docs
 
-Speaker at FOSDEM 2020 and 2023 (Go and Rust dev rooms), GoDays 2020, PyCaribbean, PyCon Israel, PyCon Italia 2017 and 2022, EuroPython 2016 and 2022, PyCon Ukraine 2014, PyCon Belarus 2015-2018 PyCon Russia 2015, 2016, 2018, OdessaPy and lot’s of local meetups.
+Speaker at KCD Austria 2023, FOSDEM 2020 and 2023 (Go and Rust dev rooms), GoDays 2020, PyCaribbean, PyCon Israel, PyCon Italia 2017 and 2022, EuroPython 2016 and 2022, PyCon Ukraine 2014, OdessaPy and lot’s of local meetups.
 
 Videos of my recent talks:
 - [Debugging concurrency programs in Go](https://www.youtube.com/watch?v=D_S9qQ7jzkQ)
